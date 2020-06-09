@@ -2,6 +2,6 @@
 
 test repository
 
-Hello Im danny Ray and i just started taking CS50
+Hello Im Danny Ray and i just started taking CS50
 
-I made these changes because i was doing the tutorial to learn hoe to use GitHub
+I made these changes because i was doing the tutorial to learn how to use GitHub
